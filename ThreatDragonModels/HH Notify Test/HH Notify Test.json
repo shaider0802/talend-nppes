@@ -1,7 +1,8 @@
 {
   "summary": {
     "title": "HH Notify Test",
-    "owner": "Syed Haider"
+    "owner": "Syed Haider",
+    "description": "Home Health notify threat model"
   },
   "detail": {
     "contributors": [],
